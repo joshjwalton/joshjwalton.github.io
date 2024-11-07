@@ -24,7 +24,7 @@
       "endDate": "Present",
       "score": "10",
       "courses": ["Theory of Relativity"]
-    }
+    },
     {
       "institution": "University of Manchester",
       "location": "Manchester, United Kingdom",
@@ -34,7 +34,7 @@
       "endDate": "2021",
       "score": "10",
       "courses": ["Theory of Relativity"]
-    }
+    },
     {
       "institution": "Runshaw College",
       "location": "Leyland, United Kingdom",
@@ -166,5 +166,5 @@
       "icon": "fa-solid fa-laptop",
       "reference": "Email: marianne.johnson@manchester.ac.uk"
     }
-  ],
+  ]
 }
