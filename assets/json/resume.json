@@ -4,7 +4,7 @@
     "image": "",
     "email": "joshua.walton@manchester.ac.uk",
     "Webpage": "https://joshjwalton.github.io",
-    "summary": "A final year PhD student researching finite group theory, representation theory and Lie groups by the means of computational algebra and the software package Magma.",
+    "summary": "A final year PhD student, with 4 years of programming experience using Magma, researching maximal subgroups and representation theory of finite groups of Lie type through the means of the computational algebra. I aspire to further my career with a post-doctoral research role involving the development and implementation of computational algebra to solve open problems in algebra, group theory and representation theory. I am an articulate and clear communicator of mathematics with a strong university level teaching portfolio.",
   
     "profiles": [
       {
@@ -64,7 +64,7 @@
       "date": "2019",
       "awarder": "N Brown Group",
       "url": "https://www.manchester.ac.uk/about/news/maths-students-win-n-brown-coding-competition-prizes/",
-      "summary": "•	Awarded 3rd place in 2019 in a Python coding competition sponsored by the N Brown Group. This competition was based on coding an AI opponent that the player could play against in the game 'Othello'."
+      "summary": "Awarded 3rd place in 2019 in a Python coding competition sponsored by the N Brown Group. This competition was based on coding an AI opponent that the player could play against in the game 'Othello'."
     }
   ],
 
@@ -97,12 +97,10 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Drive research in computational pure mathematics, in particular algebra and group theory, through the development of Magma by designing and implementing new algorithms and modifying existing code to improve efficiency, functionality and ease of use. As part of this development, expand the current database stored in Magma by incorporating known data not yet stored and integrating new data sets as current knowledge expands.",
+        "Matrix representations of finite exceptional groups of Lie type (especially those of high dimension) and their maximal subgroups and root systems.",
+        "Research open problems in computational pure mathematics, in particular algebra and group theory, through the design and implementation of new algorithms.",
+        "Identifying connections between work being done in computational algebra and group theory to other areas of mathematics."
       ]
     }
   ],
