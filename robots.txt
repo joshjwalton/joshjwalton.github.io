@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://joshjwalton.github.io/sitemap.xml
