@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "basics test": {
     "name": "Josh Walton",
     "image": "",
     "email": "joshua.walton@manchester.ac.uk",
@@ -42,10 +42,10 @@
       "startDate": "2015",
       "endDate": "2017",
       "score": "10",
-      "courses": ["Mathematics (A^*), Further Mathematics (A), Physics (A), European Modern History (A)"]
+      "courses": ["Mathematics (A*), Further Mathematics (A), Physics (A), European Modern History (A)"]
     }
   ],
-  "Funding and Awards": [
+  "awards": [
     {
       "title": "Fully Funded 4 Year PhD Studentship",
       "date": "2021",
@@ -74,7 +74,7 @@
       "publisher": "Communications in Algebra",
       "releaseDate": "05/2024",
       "url": "https://www.tandfonline.com/doi/full/10.1080/00927872.2024.2358418",
-      "summary": "A complete and comprehensive classification of the maximal tori of finite exceptional groups of Lie type. Accompanying computer files can be found here. (insert link to files on this webpage?)"
+      "summary": "A complete and comprehensive classification of the maximal tori of finite exceptional groups of Lie type."
     }
   ],
   "Research Skills": [
