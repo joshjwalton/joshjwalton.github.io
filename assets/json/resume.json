@@ -18,12 +18,12 @@
     {
       "institution": "University of Manchester",
       "location": "Manchester, U.K",
-      "area": "Thesis Title: Potential Maximal Subgroups of E_8(3), E_8(2) and The Maximal Tori of Finite Exceptional Groups of Lie Type.",
+      "area": "Thesis Title: Potential Maximal Subgroups of $$E_8(3)$$, $$E_8(2)$$ and The Maximal Tori of Finite Exceptional Groups of Lie Type.",
       "studyType": "PhD",
       "startDate": "2021",
       "endDate": "Present",
       "score": "10",
-      "courses": ["Specialise in computational algebra using the software package Magma.","Researching large dimension matrix representations of finite groups of Lie type and their maximal subgroups"]
+      "courses": ["Specialise in computational algebra using the software package Magma.","Researching large dimensional matrix representations of finite groups of Lie type and their maximal subgroups"]
     },
     {
       "institution": "University of Manchester",
@@ -57,7 +57,7 @@
       "title": "Two Funded Workshops",
       "date": "2022",
       "awarder": "Heilbronn Institite of Mathematics",
-      "summary": "Two funded workshops, both in 2022, working with a small group of fellow mathematicians identifying potential maximal subgroups of E_8(3)."
+      "summary": "Two funded workshops, both in 2022, working with a small group of fellow mathematicians identifying potential maximal subgroups of $$E_8(3)$$."
     },
     {
       "title": "School of Mathematics Entrance Scholarship",
@@ -92,6 +92,7 @@
       "name": "Mathematics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
+      "summary": "maths here ...",
       "keywords": [
         "4 years programming experience with the computational algebra package Magma, ran on Linux machines, including (but not limited to) working with large matrix representations of groups and subsequent subgroups, group modules of high dimension, maximal tori, root systems and subsystems, groups of Lie type and parabolic subgroups, irreducible modules over finite fields and their projective covers.",
         "Designing and modifying mathematical algorithms in algebra, group theory, representation theory and Lie group theory and then implementing them to run efficiently in Magma. This includes writing, modifying and testing code for constructing centralisers, normalisers, parabolic subgroups and their subsequent Levi-complements, maximal tori, maximal and non-maximal proper subgroups and group modules.",
@@ -104,7 +105,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computational Algebra and Software Development",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Drive research in computational pure mathematics, in particular algebra and group theory, through the development of Magma by designing and implementing new algorithms and modifying existing code to improve efficiency, functionality and ease of use. As part of this development, expand the current database stored in Magma by incorporating known data not yet stored and integrating new data sets as current knowledge expands.",
