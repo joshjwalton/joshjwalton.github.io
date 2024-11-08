@@ -17,9 +17,14 @@ profile:
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
 ---
 
-Hello! I am a final year PhD student, researching maximal subgroups and representation theory of finite groups of Lie type through the means of the computational algebra at the University of Manchester, U.K. My thesis title is: ?.
+Hello! I am a final year PhD student, researching maximal subgroups and representation theory of finite groups of Lie type through the means of the computational algebra at the University of Manchester, U.K. My thesis title is: Potential Maximal Subgroups of $E_8(3)$, $E_8(2)$ and The Maximal Tori of Finite Exceptional Groups of Lie Type.
 
 My research interests include, but are not limited to, matrix representations of finite simple groups, Lie algebras and their associated root systems and maximal subgroups of finite exceptional groups of Lie type. More generally, I am interested in the development and implementation of mathematical algprithms to solve open problems in finite group theory and representation theory. I conduct most of my current research using <a href='https://magma.maths.usyd.edu.au/magma/'>Magma</a>.
 

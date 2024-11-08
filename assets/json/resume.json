@@ -1,5 +1,5 @@
 {
-  "basics test": {
+  "basics": {
     "name": "Josh Walton",
     "image": "",
     "email": "joshua.walton@manchester.ac.uk",
@@ -18,12 +18,12 @@
     {
       "institution": "University of Manchester",
       "location": "Manchester, U.K",
-      "area": "Thesis Title: Potential Maximal Subgroups of $E_8(3)$, $E_8(2)$ and The Maximal Tori of Finite Exceptional Groups of Lie Type.",
+      "area": "Thesis Title: Potential Maximal Subgroups of E_8(3), E_8(2) and The Maximal Tori of Finite Exceptional Groups of Lie Type.",
       "studyType": "PhD",
       "startDate": "2021",
       "endDate": "Present",
       "score": "10",
-      "courses": ["Specialise in computational algebra using the software package Magma.","cheese"]
+      "courses": ["Specialise in computational algebra using the software package Magma.","Researching large dimension matrix representations of finite groups of Lie type and their maximal subgroups"]
     },
     {
       "institution": "University of Manchester",
@@ -33,7 +33,7 @@
       "startDate": "2017",
       "endDate": "2021",
       "score": "10",
-      "courses": ["Awarded first class honours including 91% in extended master's dissertation on Sylow $p$-subgroups and Hall pi-subgroups."]
+      "courses": ["Awarded first class honours including 91% in extended master's dissertation on Sylow p-subgroups and Hall Pi-subgroups."]
     },
     {
       "institution": "Runshaw College",
@@ -54,6 +54,12 @@
       "summary": "A fully funded PhD studentship to research certain subgroup structures of exceptional finite simple groups."
     },
     {
+      "title": "Two Funded Workshops",
+      "date": "2022",
+      "awarder": "Heilbronn Institite of Mathematics",
+      "summary": "Two funded workshops, both in 2022, working with a small group of fellow mathematicians identifying potential maximal subgroups of E_8(3)."
+    },
+    {
       "title": "School of Mathematics Entrance Scholarship",
       "date": "2017",
       "awarder": "The University of Manchester",
@@ -70,14 +76,18 @@
 
   "publications": [
     {
-      "name": "The maximal Tori of finite exceptional groups of Lie type",
+      "name": "The Maximal Tori of Finite Exceptional Groups of Lie Type",
       "publisher": "Communications in Algebra",
       "releaseDate": "05/2024",
       "url": "https://www.tandfonline.com/doi/full/10.1080/00927872.2024.2358418",
       "summary": "A complete and comprehensive classification of the maximal tori of finite exceptional groups of Lie type."
+    },
+    {
+      "name": "The Maximal Subgroups of E_8(3) - Part 1",
+      "summary": "Unpublished manuscript presenting some of the work classifying the maximal subgroups of E_8(3)."
     }
   ],
-  "Research Skills": [
+  "skills": [
     {
       "name": "Mathematics",
       "level": "Master",
@@ -92,7 +102,7 @@
       ]
     }
   ],
-  "Research Interests": [
+  "interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
